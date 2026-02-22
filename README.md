@@ -55,7 +55,7 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor Python com foco em backend deve
     title="sql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)" 
 />
 <img 
     align="left" 
