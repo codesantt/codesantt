@@ -1,7 +1,5 @@
 # 👩🏻‍💻 Sant
 
-**`Desenvolvedora FullStack`**
-
 Me chamo Igor, tenho 19 anos e sou Desenvolvedor Python com foco em backend development, dados e automação de processos. Acredito que código bem escrito é código que outros desenvolvedores conseguem entender e manter. Minha abordagem combina princípios de clean code, type safety e defensive programming para criar soluções que são não apenas funcionais, mas também sustentáveis a longo prazo. Atualmente focado em construir ferramentas e scripts que automatizam tarefas repetitivas, sempre com atenção à qualidade do código e manutenibilidade.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f87f39&height=120&section=header"/>
