@@ -9,8 +9,6 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor Python com foco em backend deve
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f87f39&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Igor+Alves;I'm+19+years+old;I'm+,+Pyhton,+Developer,;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=santpy&bg_color=000000&color=f87f39&line=f87f39&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-### Main skills:
 
 <p align="left">
     <a href="https://github.com/santpy?tab=repositories&sort=stargazers">
@@ -48,14 +46,6 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor Python com foco em backend deve
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="sql" 
-    title="sql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)" 
 />
 <img 
     align="left" 
