@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Sant
 
-Me chamo Igor, tenho 19 anos e sou Desenvolvedor Python com foco em backend development, dados e automação de processos. Acredito que código bem escrito é código que outros desenvolvedores conseguem entender e manter. Minha abordagem combina princípios de clean code, type safety e defensive programming para criar soluções que são não apenas funcionais, mas também sustentáveis a longo prazo. Atualmente focado em construir ferramentas e scripts que automatizam tarefas repetitivas, sempre com atenção à qualidade do código e manutenibilidade.
+Me chamo Igor, tenho 19 anos e sou Desenvolvedor frontend, meu foco é trazer códigos limpos, responsivos e com designes modernos, estou estudando e aprimorando meus conhecimentos em JavaScript no momento e quero evoluir para React e Next.js!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f87f39&height=120&section=header"/>
   
@@ -47,11 +47,11 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor Python com foco em backend deve
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="JavaScript" 
+    title="JS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
 />
 <img 
     align="left" 
@@ -61,17 +61,26 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor Python com foco em backend deve
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
 
 <br/>
 <br/>
  
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg)&nbsp;
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)&nbsp;
+![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg)&nbsp;
 
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg)&nbsp;
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f87f39&height=120&section=footer"/>
