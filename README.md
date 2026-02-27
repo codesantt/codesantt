@@ -75,12 +75,47 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor frontend, meu foco √© trazer c√
 <br/>
  
 ### Tools:
-![Visual Studio Code](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg)&nbsp;
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)&nbsp;
-![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg)&nbsp;
+<img 
+    align="left" 
+    alt="VisualStudio" 
+    title="VS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Windows" 
+    title="Windows"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
+/>
 
 ### Studying in this moment:
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg)&nbsp;
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)&nbsp;
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f87f39&height=120&section=footer"/>
