@@ -70,7 +70,6 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor frontend, meu foco Ã© trazer cÃ
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
 <br/>
 <br/>
  
@@ -99,6 +98,9 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor frontend, meu foco Ã© trazer cÃ
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
 />
+
+<br/>
+<br/>
 
 ### Studying in this moment:
 <img 
