@@ -4,7 +4,7 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor frontend, meu foco √© trazer c√
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f87f39&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f87f39&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Igor+Alves;I'm+19+years+old;I'm+,+Pyhton,+Developer,;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f87f39&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Igor+Alves;I'm+19+years+old;I'm+FrontEnd+Developer,;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=santpy&bg_color=000000&color=f87f39&line=f87f39&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
