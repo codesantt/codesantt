@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Sant
 
-Me chamo Igor, tenho 19 anos e sou Desenvolvedor frontend, meu foco é trazer códigos limpos, responsivos e com designes modernos, estou estudando e aprimorando meus conhecimentos em JavaScript no momento e quero evoluir para React e Next.js!
+Me chamo Igor, tenho 19 anos e sou Desenvolvedor frontend, meu foco é trazer códigos limpos, responsivos e com designes modernos, minhas principais stacks são React e Next.js!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f87f39&height=120&section=header"/>
   
@@ -9,18 +9,18 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor frontend, meu foco é trazer c�
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=santpy&bg_color=000000&color=f87f39&line=f87f39&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left">
-    <a href="https://github.com/santpy?tab=repositories&sort=stargazers">
+    <a href="https://github.com/codesantt?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/santpy?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/codesantt?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/santpy?tab=followers">
+    <a href="https://github.com/codesantt?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/santpy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/codesantt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
