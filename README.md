@@ -6,8 +6,6 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor backend, meu foco é trazer có
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f87f39&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Igor+Alves;I'm+19+years+old;I'm+BackEnd+Developer,;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codesantt&bg_color=000000&color=f87f39&line=f87f39&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="left">
     <a href="https://github.com/codesantt?tab=repositories&sort=stargazers">
         <img 
@@ -28,7 +26,30 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor backend, meu foco é trazer có
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<img 
+    align="left" 
+    alt="HTML" 
+    title="HTML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+/>
 <img 
     align="left" 
     alt="React" 
@@ -94,6 +115,14 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor backend, meu foco é trazer có
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f87f39&height=120&section=footer"/>
