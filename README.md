@@ -32,7 +32,7 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor backend, meu foco é trazer có
     title="HTML"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
@@ -40,7 +40,7 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor backend, meu foco é trazer có
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
@@ -48,7 +48,7 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor backend, meu foco é trazer có
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 <img 
     align="left" 
