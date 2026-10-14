@@ -81,11 +81,11 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor backend, meu foco é trazer có
 />
 <img 
     align="left" 
-    alt="GitHub" 
-    title="GitHub"
+    alt="Windows" 
+    title="Windows"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
 />
 <img 
     align="left" 
@@ -97,11 +97,11 @@ Me chamo Igor, tenho 19 anos e sou Desenvolvedor backend, meu foco é trazer có
 />
 <img 
     align="left" 
-    alt="Windows" 
-    title="Windows"
+    alt="GitHub" 
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
 <br/>
